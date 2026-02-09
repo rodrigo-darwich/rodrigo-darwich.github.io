@@ -10,7 +10,9 @@ Olá! Seja bem vindo ao meu blog pessoal! Este é meu primeiro post aqui. Há al
 
 Pois bem. Eu sou, neste momento em que escrevo, um completo leigo no mundo das tecnologias. Até então, a única coisa que sei fazer quando algo dá errado no meu computador é desligá-lo e ligá-lo de novo. Então programar não é meu forte. 
 
-Mas há algum tempo vinha sentindo uma certa falta de um hobby. Algo recorrente para fazer e preencher meu tempo. Eu gosto de ler e de desenhar um pouco, mas ainda sim, queria fazer mais alguma coisa. E eu adoro registrar o que faço. Seja em cadernos, no meu notion pessoal ou em papéis soltos por aí... Fato é que eu gosto muito de escrever (eu disse "gosto muito", não que eu escrevo bem). E já tive vontade de produzir conteúdo. A memória mais antig que tenho foi de quando eu era criança e criei sabe se lá como um blog nessas plataformas tipo o *wordpress* para escrever sobre mitologias. Gastei um bom tempo personalizando ele, mas acredito que ele nunca deve ter ido ao ar, pois eu não sabia direito o que estava fazendo. 
+Mas há algum tempo vinha sentindo uma certa falta de um hobby. Algo recorrente para fazer e preencher meu tempo. Eu gosto de ler e de desenhar um pouco, mas ainda sim, queria fazer mais alguma coisa. E eu adoro registrar o que faço. Seja em cadernos, no meu notion pessoal ou em papéis soltos por aí... Fato é que eu gosto muito de escrever (repare que eu disse "gosto muito", não que eu escrevo bem rs). E já tive vontade de produzir conteúdo. 
+
+A memória mais antiga que tenho foi de quando eu era criança e criei sabe se lá como um blog nessas plataformas tipo o *wordpress* para escrever sobre mitologias (um fã de percy jackson hehe). Gastei um bom tempo personalizando ele, mas acredito que o coitado nunca deve ter ido ao ar.
 
 Depois, pensei em ter um perfil de estudos e curiosidades no instagram. Mas o modelo da plataforma me desestimuolou: não sei gravar vídeos curtos e não tem um espaço dedicado à escrita. A foto chama mais atenção do que a legenda. Enfim, a vontade não durou muito tempo. 
 
