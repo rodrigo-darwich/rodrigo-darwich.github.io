@@ -30,7 +30,7 @@ Depois de alguns dias vendo vídeos em aramaico, entendi que um site estático s
 
 Seria necessário instalar algumas coisas no meu computador para fazer esse site rodar e eu não fazia ideia de como. Eu tenho um macbook de 2015, então muita coisa já não roda mais nesse pequeno guerreiro meu. 
 
-Os vídeos diziam que eu precidava do jekyll. Um dos vídeos disse "não vou ensinar a instalar o jekyll, pois é muito fácil. É óbvio que vocês conseguem". Não! Eu não conseguia haha! Tive que apelar para o *gemini* do google e sem ele, jamais teria conseguido. 
+Os vídeos diziam que eu precidava do jekyll. Um dos vídeos disse "não vou ensinar a instalar o jekyll, pois é muito fácil. É óbvio que vocês conseguem". E eu pensei: ahh não, eu não consigo! Tive que apelar para o *gemini* do google e sem ele, jamais teria conseguido. 
 
 Entendi que precisava instalar muitas funcionalidades para montar o site: 
 - Jekyll: é o que transforma os arquivos de texto (escritos em markdown) salvos no seu computador em arquivos html (que são próprios para serem exibidos na internet). 
