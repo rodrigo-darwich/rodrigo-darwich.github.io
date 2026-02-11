@@ -16,6 +16,7 @@ Meu contato com o Latim começou quase pelo acaso. Na época em que estava no en
 Fiquei alguns anos estudando, com algumas interrupções. Mas é importante dizer que eu estou longe de ser um latinista ou especialista na área. Há muito o que aprender ainda: há formas verbais que não conheço, regras de sintaxe que não domino. Mas o pouco que sei, pretendo compartilhar.
 
 ## Material de Estudos
+
 Minha professora de Latim, a Paula Cenizio, quem indico fortemente para qualquer um que queria se aventurar na intrigante língua do Império Romano, adotou a famosa obra de Hans Ørberg: Familia Romana. O material segue a abordagem do *método natural*, isto é, um estudo do idioma por meio de textos integrais sem tradução (ou com o mínimo possível), de forma que a absorção, a partir do contexto, seja o mais natural possível. O livro é organizado em capítulos, do mais básico ao mais aprofundado, seguindo uma progressão na complexidade dos vocabulários e da gramática.
 
 Eu comprei uma gramática latina de nível colegial dos Irmãos Maristas (mas que possui um nível surpreendentemente aprofundado) em um sebo on-line e não me arrependo. O material é de ótima qualidade. Eu havia visto um exemplar na biblioteca da Faculdade e resolvi comprar.
@@ -56,7 +57,7 @@ Os adjetivos, naturalmente, também concordam e, por isso, flexionam-se no plura
 
 A última frase mostra bem isso. Bonus (bom, bondoso) é um mesmo adjetivo. Mas com palavras de gêneros diferentes, flexiona: bona. bonus. bonum. 
 
-**No fim..**
+**No fim...**
 
 Os gêneros gramaticais são o masculinum, o femininum e o neutrum (que são palavras neutras rs). No singular e no plural, são terminadas como: 
 
