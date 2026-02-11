@@ -14,7 +14,7 @@ Mas há algum tempo vinha sentindo uma certa falta de um hobby. Algo recorrente 
 
 A memória mais antiga que tenho foi de quando eu era criança e criei sabe se lá como um blog nessas plataformas tipo o *wordpress* para escrever sobre mitologias (um fã de percy jackson hehe). Gastei um bom tempo personalizando ele, mas acredito que o coitado nunca deve ter ido ao ar.
 
-Depois, pensei em ter um perfil de estudos e curiosidades no instagram. Mas o modelo da plataforma me desestimuolou: não sei gravar vídeos curtos e não tem um espaço dedicado à escrita. A foto chama mais atenção do que a legenda. Enfim, a vontade não durou muito tempo. 
+Depois, pensei em ter um perfil de estudos e curiosidades no instagram. Mas o modelo da plataforma me desestimulou: não sei gravar vídeos curtos e não tem um espaço dedicado à escrita. A foto chama mais atenção do que a legenda. Enfim, a vontade não durou muito tempo. 
 
 Mas sempre que aprendo algo novo, tenho alguma reflexão súbita ou vou para um lugar diferente, sinto vontade de registrar e de compartilhar com os outros. Ainda que o alcance real, convenhamos, provavelmente não passe do meu namorado e de alguns amigos meus rs, eu queria compartilhar pelo prazer de compartilhar! 
 
